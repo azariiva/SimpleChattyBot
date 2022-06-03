@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-java.main" target="16" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.main" target="16" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-headers-java.main" target="16" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-reports-tests.main" target="16" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-test-results.main" target="16" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-tmp.main" target="16" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task.main" target="16" />
+      <module name="Simple_Chatty_Bot.Topics-Introduction_to_Java-Hello.main" target="16" />
+      <module name="Simple_Chatty_Bot.Topics-Introduction_to_Java-Theory.main" target="16" />
+      <module name="Simple_Chatty_Bot.Topics-Introduction_to_Java-WORA.main" target="16" />
+      <module name="Simple_Chatty_Bot.util.main" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
